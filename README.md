@@ -23,5 +23,17 @@ This tutorial minimally requires:
 - Open default project "Blink" and upload it by clicking on right arrow in the bottom left;  
 - Open the current project in PlatformIO;
 - Upload it to the board;
-- Open serial monitoring.
+- Open serial monitoring, it may appear something like below:
 
+```
+------
+dummy.txt:
+000:00:00:111: Sensor_1, Sensor_2, ..., Sensor_n
+000:00:01:169: Sensor_1, Sensor_2, ..., Sensor_n
+000:00:02:265: Sensor_1, Sensor_2, ..., Sensor_n
+000:00:03:415: Sensor_1, Sensor_2, ..., Sensor_n
+000:00:04:619: Sensor_1, Sensor_2, ..., Sensor_n
+000:00:05:876: Sensor_1, Sensor_2, ..., Sensor_n
+000:00:07:188: Sensor_1, Sensor_2, ..., Sensor_n
+000:00:08:554: Sensor_1, Sensor_2, ..., Sensor_n
+```
