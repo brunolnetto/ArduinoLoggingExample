@@ -1,23 +1,23 @@
-# ArduinoLoggingExample
+# arduino-logging-example
 Arduino logging in SD card minimal example
 
-# Requirements
+## Requirements
 
 This tutorial minimally requires:
 
-## Hardware
+### Hardware
 
 - Arduino Uno board;
 - Arduino SD shield;
 - Arduino upload cable.
 
-## Software
+### Software
 	
 - VSCode environment;
 - Platformio plugin;
 - Package `platformio` (```sudo apt-get install platformio```);
 
-# How to run
+## How to run
 	
 1. Check board-to-device connection by turned-on leds;
 2. Open the current project in PlatformIO;
